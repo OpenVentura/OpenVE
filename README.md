@@ -8,7 +8,7 @@
 
 Welcome to OpenVE-2db, A free, Open Source, and lightweight game engine.
 Created By OpenVentura.
-Version 1.0 - Released Apr.2024
+Version 1.0 - Expected Release date: Apr.2024
 
 MADE USING : (estimate)
   Python 3.12 - 95%
