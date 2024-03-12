@@ -5,3 +5,5 @@ What is OpenTE?
 This is the independent folder for OpenTE, Meaning you can download and use it  at your disposal, Even without using OpenVE.
 
 THIS DOES NOT HAVE AUTOSAVE, NOR DOES NOT ASK TO SAVE BEFORE QUITTING
+
+Current Release OpenTE 1.1
